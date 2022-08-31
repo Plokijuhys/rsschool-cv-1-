@@ -1,9 +1,9 @@
-# Maksim Mikhailenka
+# Maksim Mikhailenka     ![Image](http://url/a.png)
 ## Contacts:
   * **Phone** 
   * **E-mail:** maxsfacters@gmail.com
   * **Telegram:** @MikeRaskin
-
+***
 
 ## About myself:
 So... I try to find out something new in my life. There for I think that RSSchool help me) 
