@@ -1,7 +1,7 @@
-# Maksim Mikhailenka     ![Image](c:/project/logo.png)
+# Maksim Mikhailenka   
 ## Contacts:
   * **Phone** 
-  * **E-mail:** maxsfacters@gmail.com
+  * **E-mail:** maxsfacters@gmail.com   
   * **Telegram:** @MikeRaskin
 ***
 
@@ -30,7 +30,7 @@ about markdown, There for I will input something useless here. Thanks fot unders
 
 
 ## Courses:
-  * PSU course in English language
+  * [PSU course in English language](https://www.psu.by/ru/university/tsentr-izucheniya-inostrannykh-yazykov)
   * Work expirience in industry
 
 
