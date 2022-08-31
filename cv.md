@@ -1,4 +1,4 @@
-# Maksim Mikhailenka     ![Image](http://url/a.png)
+# Maksim Mikhailenka     ![Image](c:/project/logo.png)
 ## Contacts:
   * **Phone** 
   * **E-mail:** maxsfacters@gmail.com
