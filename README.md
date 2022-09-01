@@ -1,1 +1,1 @@
-https://plokijuhys.github.io/rsschool-cv/cv
+https://github.com/Plokijuhys/rsschool-cv.git
