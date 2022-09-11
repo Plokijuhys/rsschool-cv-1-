@@ -5,25 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Maksim Mikhailencka CV</title>
-        <link href="styles-cv.css" rel="stylsheet"/>
+        <link type="text/css" href = "styles-cv.css" rel = "stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
     <div class="container">
-        <div class="contacts">
             <h1>Maksim Mikhailenka</h1>
                 <div class="info"> 
                     <img src="ava.jpg" class="avatar" alt="My photo"/>
                     <p>Forever young but always sober (almost)</p>
-                    
-                    <h2>Contacts</h2>
-                    <ul class contacts-list>
-                        <li><span class="location-icon"> Location: Novopolock, Belarus</span></li>
-                        <li><span class="Email-icon"> Email: maxsfacters@gmail.com</span></li>
-                        <li><span class="Telegram-icon"> Telegram: https://t.me/MikeRaskin</span></li>
-                        <li><span class="VK-icon"> VK: https://vk.com/id198094989</span></li>
                 </div>
-        </div>
-
+                <div class="contacts">
+                    <h2>Contacts</h2>
+                    <ul class="contacts-list">
+                        <li><span class="location-icon"> Location: Novopolock, Belarus</span></li>
+                        <li><span class="Email-icon"> Email: <a href="maxsfacters@gmail.com" target="_blank">maxsfacters@gmail.com</a></span></li>
+                        <li><span class="Telegram-icon"> Telegram: <a href="https://t.me/MikeRaskin" target="_blank">https://t.me/MikeRaskin</a></span></li>
+                        <li><span class="VK-icon"> VK: <a href="https://vk.com/id198094989" target="_blank">https://vk.com/id198094989</a></span></li>
+                    </ul>
+                </div>
+        
         <div class="myself">
             <h2> About myself</h2>
             <p class="myself-text">
@@ -31,19 +32,18 @@
                 And this is really a very serious and interesting work that I like.  
                 But the desire to constantly learn does not go away.   
                 could have written more about myself, but the deadline is already here.  
-                See you later😉  
-                🏃‍♂️💨
             </p> 
+        </div>    
 
         <div class="skills">
             <h2>Skills</h2>
             <ul class="skills-list">
-                <li>HTML, CSS basics</li>
-                <li>Git basics</li>
-                <li>Markdown</li>
-                <li>Work in a CAD systems (SolidWorks, Kompas etc.)</li>
-                <li>Reading elrctrical, pneumatic, hydraulic circuit diagrams</li>
-                <li>Development of design documentation</li>
+                <li class="icon">HTML, CSS basics</li>
+                <li class="icon">Git basics</li>
+                <li class="icon">Markdown</li>
+                <li class="icon">Work in a CAD systems (SolidWorks, Kompas etc.)</li>
+                <li class="icon">Reading elrctrical, pneumatic, hydraulic circuit diagrams</li>
+                <li class="icon">Development of design documentation</li>
             </ul> 
         </div> 
 
@@ -51,15 +51,15 @@
             <h2>Code example</h2>
                 <pre class="code-text">
                     <code>
-                        # ********* ADDITION
-                        if (sign == 0):
-                            z = random.randint(lowDiapazon, highDiapazon)
-                            x = random.randint(lowDiapazon, z)
-                            y = z - x
-                            if (random.randint(0, 1) == 0):
-                                print(f"{x} + {y} = ?")
-                            else:
-                                print(f"{y} + {x} = ?")
+# ********* ADDITION
+if (sign == 0):
+    z = random.randint(lowDiapazon, highDiapazon)
+    x = random.randint(lowDiapazon, z)
+    y = z - x
+    if (random.randint(0, 1) == 0):
+        print(f"{x} + {y} = ?")
+    else:
+        print(f"{y} + {x} = ?")
                     </code>
                 </pre>
         </div>
@@ -67,11 +67,11 @@
         <div class="education">
             <h2>Education and courses</h2>
             <ul class="education-list">
-                <li><a href="https://www.psu.by/ru/university/tsentr-izucheniya-inostrannykh-yazykov">PSU course in English language</a></li>
-                <li><a href="https://ru.code-basics.com/languages/html">HTML cours for begginers</a></li>
-                <li><a href="https://ru.code-basics.com/languages/css">CSS for begginers</a></li>
-                <li>Secondary special education at the College of Mechanical Engineering</li>
-                <li>PSU Higher education (In progress)</li>
+                <li class="icon1"><a href="https://www.psu.by/ru/university/tsentr-izucheniya-inostrannykh-yazykov">PSU course in English language</a></li>
+                <li class="icon1"><a href="https://ru.code-basics.com/languages/html">HTML cours for begginers</a></li>
+                <li class="icon1"><a href="https://ru.code-basics.com/languages/css">CSS for begginers</a></li>
+                <li class="icon1">Secondary special education at the College of Mechanical Engineering</li>
+                <li class="icon1">PSU Higher education (In progress)</li>
             </ul>
         </div>
 
