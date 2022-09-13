@@ -168,6 +168,13 @@ a:visited {
     margin-bottom: 0px;
 }
 
+@media (max-width: 600px) {
+    .code-text {
+        text-align: center;
+        display: block;
+    }
+}
+
 .education {
     margin-top: 10px;
     padding: 10px 10px;
